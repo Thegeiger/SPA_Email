@@ -4,7 +4,7 @@ Unfortunately, not being able to show all my achievements, I allow myself to sha
 
 This is a responsive email made the good old way displayed on all browsers (and yes even the old internet explorer and that was not easy to do) check using the tool: mailgun
 
-
+_______
 
 
 Bonjour vous qui venez ici curieux de savoir ce que j'ai pu faire dès mes 17ans afin d'aider des associations humanitaires !
